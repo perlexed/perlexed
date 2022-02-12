@@ -5,3 +5,5 @@ I prefer to drop to the github all my pet projects, code exercizes and practice 
 Javascript, Typescript and PHP are here mostly for moniez, all the other stuff (Unity/C#, Python, etc.) is for education, entertainment and hobbies.
 
 Feel free to contact me via [email](mailto:perlexed@gmail.com) or [Telegram](https://t.me/perlexed).
+
+Codewars account: https://www.codewars.com/users/perlexed
